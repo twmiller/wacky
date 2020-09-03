@@ -8,11 +8,11 @@
 
 Specification   |      Value
 ----------------|------------------------------------
-CPU | MOS 6510
-Memory | 64k
-Storage | N/A
-Graphics | VIC-II
-Sound | SID 6581
+CPU             | MOS 6510
+Memory          | 64 KB
+Storage         | N/A
+Graphics        | VIC-II
+Sound           | SID 6581
 
 ## Peripherals
 
@@ -21,3 +21,5 @@ Sound | SID 6581
 * RETRO Innovations 64NIC+ Network Card
 
 ## Notes
+
+## Software
