@@ -6,6 +6,12 @@
 
 ## Specifications
 
+CPU | MOS 6510
+Memory | 64k
+Storage | N/A
+Graphics | VIC-II
+Sound | SID 6581
+
 ## Peripherals
 
 ## Notes
