@@ -6,6 +6,8 @@
 
 ## Specifications
 
+Spec     | Value
+----------------------
 CPU | MOS 6510
 Memory | 64k
 Storage | N/A
