@@ -16,4 +16,8 @@ Sound | SID 6581
 
 ## Peripherals
 
+* Commodore 1702 CRT Monitor
+* Commodore 1541 Diskette Drive
+* RETRO Innovations 64NIC+ Network Card
+
 ## Notes
